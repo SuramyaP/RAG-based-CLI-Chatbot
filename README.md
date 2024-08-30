@@ -51,7 +51,7 @@ Run the code by:
 python main.py
 ```
 The program currently acts as a chatbot for a book called "Girl Meets Boy" by Derek Strange. To add your documents, go to the [documents](https://github.com/SuramyaP/RAG-based-CLI-Chatbot/tree/main/documents) folder and add your pdf files.
-The `BAAI/bge-base-en-v1.5` model of Huggingface has been used to convert documents into vector representations suitable for indexing and retrieval. Likewise, `llama 3.1` has been used for generating responses.
+The `BAAI/bge-base-en-v1.5` model of Huggingface has been used to convert documents into vector representations suitable for indexing and retrieval. Likewise, `llama 3.1` has been used for generating responses. At times, the bot may respond with "Empty Response" in which case, try asking the question again. Likewise, at times, the bot may take a little long to respond, in which case please be a little patient. 
 
 ## Acknowledgement
 
