@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Retrieval-Augmented Generation (RAG) based Command Line Interface (CLI) chatbot built using the LlamaIndex framework. The chatbot interacts with documents, uses the Qdrant vector database for document indexing, and leverages the Ollama language model for generating responses. The chatbot system is designed to remember previous conversations within a session.
+This project is a Retrieval-Augmented Generation (RAG) based Command Line Interface (CLI) chatbot built using the LlamaIndex framework. The chatbot interacts with documents, uses the Qdrant vector database for document indexing, and leverages the Llama 3.1 language model provided by Ollama framework for generating responses. The chatbot system is designed to remember previous conversations within a session.
 
 
 ### Sample Working:
